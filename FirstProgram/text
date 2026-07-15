@@ -1,0 +1,19 @@
+node is the run time enviorment java script
+node having three types module 
+1 local modele
+2  core module
+3 third parti
+
+
+
+
+//fs
+for reading a file
+for writing the file 
+for delete  the file
+for update the file
+
+
+for creating a server
+ 1-import http module
+ 

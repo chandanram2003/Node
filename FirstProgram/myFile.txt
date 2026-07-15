@@ -1,0 +1,13 @@
+hello world
+
+
+// 1 create a folder and open in vs code
+// 2 open terminal 
+// 3 initiate the command  npm init -y
+// create a new project
+
+
+
+//home work
+
+//crete a master log which store url ip date and time and user request
